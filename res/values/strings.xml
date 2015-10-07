@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gdzie byłem?</string>
+
+    <string name="about_application_verion">Wersja aplikacji : 1.1</string>
+
+    <string name="about_developer_label">Twórca:</string>
+    <string name="about_developer_name">Maciej Krawczyk</string>
+    <string name="about_developer_email">mkandrodev@gmail.com</string>
+
+
+    <string name="button_add_location">Dodaj Lokalizację</string>
+    <string name="button_save_location">Zapisz Lokalizację</string>
+    <string name="gps_is_off">Wyłączono lokalizację!</string>
+    <string name="name_new_location_hint">Podaj nazwę</string>
+    <string name="lodz">Łódź</string>
+    <string name="your_location">Twoja aktualna lokacja</string>
+    <string name="turn_on_location_label">Włącz lokalizację!</string>
+    <string name="turn_on_location_description">Włącz lokalizacje aby przejśc dalej</string>
+    <string name="no_location_name">Nie podano nazwy!</string>
+    <string name="no_current_location">Brak aktualnej lokalizacji!</string>
+    <string name="location_saved">Lokalizacja zapisana w bazie danych</string>
+    <string name="turn_on">Włącz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="data_base_error">Bład bazy danych.</string>
+    <string name="location_deleted">Usunięto lokalizację</string>
+
+    <string name="settings_activity_label">Ustawienia</string>
+    <string name="about_activity_label">O aplkikacji</string>
+    <string name="map_activity_label">Mapa Lokacji</string>
+
+    <string-array name="array_for_dialog">
+        <item>Edytuj</item>
+        <item>Usuń</item>
+    </string-array>
+</resources>
